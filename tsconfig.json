@@ -5,7 +5,6 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "target": "es5",
-    "jsx": "react",
     "lib": [
       "dom",
       "es6"

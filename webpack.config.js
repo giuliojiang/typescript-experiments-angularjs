@@ -1,7 +1,7 @@
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 module.exports = {
-  entry: './src/app/app.tsx',
+  entry: './src/app/app.ts',
   plugins: [
     new CleanWebpackPlugin(['public/build'])
   ],
